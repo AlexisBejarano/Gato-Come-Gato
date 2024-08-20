@@ -1,0 +1,54 @@
+.btn-espacio{
+	width: 90px;
+    height: 90px;
+    margin: 5px;
+    border-radius: 5px;
+    border: 2px black solid;
+    padding: 0!important;
+}
+
+
+.container-co{
+	width: 320px;
+    display: flex;
+    margin: auto;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.container-fluid{
+	height: 100%;
+}
+
+.color1{
+    position: relative;
+	border: 2px red solid;
+}
+
+.color2{
+    position: relative;
+	border: 2px blue solid;
+}
+
+.imgClass1{
+    top: 0px;
+    position: absolute;
+    width: 85px;
+    left: -10px;
+}
+.imgClass2{
+    top: 0px;
+    position: absolute;
+    width: 85px;
+    left: 0px;
+}
+.imgClass3{
+    top: 0px;
+    position: absolute;
+    width: 85px;
+    left: 10px;
+}
+
+.imgClass{
+    width: 85px;
+}
